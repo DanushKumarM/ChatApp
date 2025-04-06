@@ -1,0 +1,12 @@
+# IntelliJ/IDEA
+.idea/
+
+# Node
+node_modules/
+
+# Maven
+target/
+
+# OS files
+.DS_Store
+Thumbs.db
